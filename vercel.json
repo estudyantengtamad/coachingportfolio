@@ -1,4 +1,8 @@
 {
   "version": 2,
+  "name": "karlstheticsfitness",
+  "alias": [
+    "karlstheticsfitness.vercel.app"
+  ],
   "cleanUrls": true
 }

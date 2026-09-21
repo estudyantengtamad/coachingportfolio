@@ -1,0 +1,9 @@
+{
+  "name": "karlstheticsfitness",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Karlsthetics Fitness Online Coaching Portfolio",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
